@@ -16,9 +16,9 @@
 | ----------- | ----------- |
 | read01 | [class1](Class01.md) |
 | read02 | [class2](Class02.md) |
-<!-- | read03 | [class3](Reademe-html.md) |
-| read04 | [class4](java-note.md) |
-| read05 | [class5](Read-Operators-and-Loop.md) |
-| read06 | [class6](css-reading.md) |
+| read03 | [class3](class03.md) |
+| read04 | [class4](class04md)  |
+| read05 | [class5](class05.md) |
+| read06 | [class6](class06.md) |
 
 <link rel="https://github.com/Qusai-Alnonah" href="Abut Us">
