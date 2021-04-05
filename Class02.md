@@ -8,3 +8,6 @@ rules are made up of selector and declarations
 diffrent type of selectors allow you to traget your rules at different elemaents
 
 and we now that there is different types of selectors allow you to target your rules at different element 
+
+from the read we now that every statment or declaration are contan two part the properties and the value of the operperties 
+else we now that css rules appear in aseparate document and it also appear in html page.
