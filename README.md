@@ -14,8 +14,8 @@
 
 | Assignment| Link |
 | ----------- | ----------- |
-| read01 | [class1](read01.md) |
-| read02 | [class2](read02.md) |
+| read01 | [class1](Class01.md) |
+| read02 | [class2](Class02.md) |
 <!-- | read03 | [class3](Reademe-html.md) |
 | read04 | [class4](java-note.md) |
 | read05 | [class5](Read-Operators-and-Loop.md) |
